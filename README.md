@@ -1,2 +1,4 @@
 # HUERTO
-huerto de metas proyexto dispositivos moviles
+huerto de metas proyecto dispositivos moviles
+El sistema propuesto como aplicación móvil nativa para dispositivos Android el cual tiene como objetivo inicial ayudar a los usuarios que participan de la misma a establecer, realizar y dar seguimiento a objetivos o logros presentes en su vida cotidiana mediante un sistema de motivación visual basado en obtener una semilla y posteriormente el crecimiento progresivo de una planta a medida que logras objetivos personalizados al usuario.
+Una de las funciones principales de aplicación será un widget disponible ubicado en la pantalla de inicio del dispositivo, permitiendo de esta forma al usuario consultar de manera rápida y aun mas accesible su progreso diario sin la necesidad de abrir completamente la aplicación. El widget funcionará como el principal elemento de interacción rápida del sistema, mostrando información relacionada con los objetivos establecidos, el progreso del día y el estado actual de la planta.
